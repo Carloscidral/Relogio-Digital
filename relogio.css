@@ -1,0 +1,14 @@
+body {
+    display: flex;              /* Flexbox para centralizar */
+    justify-content: center;    /* centraliza horizontalmente */
+    align-items: center;        /* centraliza verticalmente */
+    height: 100vh;              /* altura da tela toda */
+    background-color: black;    /* fundo escuro */
+    margin: 0;                  /* remove margens padrões */
+}
+
+#horario {
+    color: rgb(255, 0, 0);                /* cor dos números */
+    font-size: 80px;            /* tamanho grande */
+    font-family: 'Courier New', monospace; /* fonte estilo digital */
+}
